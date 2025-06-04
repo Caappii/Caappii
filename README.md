@@ -1,3 +1,2 @@
-<div align="center">
-  <img src="https://media.discordapp.net/attachments/1352961638218727485/1361314947010789497/489744765_1147036524101755_3834178974875813070_n.png?ex=67fe4ed7&is=67fcfd57&hm=c028e338b6ad5bccdce4bedd46e31c76b2bc6b6b32e51e902f4766c437aa8f7b&=&format=webp&quality=lossless&width=570&height=320" alt="real" width="500"/>
-</div>
+
+### <div align="middle"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=2300&pause=1000&color=A9D9D3&center=true&vCenter=true&random=false&width=800&height=30&lines=It's+not+a+nigger!;Cosmic+nigger+nigger+nigger+nigger+nigger) </div>
